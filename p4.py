@@ -1,3 +1,5 @@
+#Lucio Tuncar
+
 import random
 
 pares =  0
